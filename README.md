@@ -2,7 +2,7 @@
   <img src="./.github/readme-images/icon_alt.png" align="center" width="128" />
 <p>
 <h1 align="center">
-  LNReader
+  LNReader(Not orginal)
 </h1>
 <p align="center">
   LNReader is a Tachiyomi-like, free and open source light novel reader for Android.
